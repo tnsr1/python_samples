@@ -15,7 +15,7 @@ rem pyqt5-tools
 rem pip install pyside2
 
 https://aqtinstall.readthedocs.io/en/latest/getting_started.html
-https://pythonlib.ru/library-theme97?ysclid=mgm7gpv9v7402236680
+https://pythonlib.ru/library-theme97
 
 https://habr.com/ru/companies/ruvds/articles/536824/
 
